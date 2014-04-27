@@ -1,3 +1,11 @@
+%% Chapter 6 Problems: User Defined Functions
+%
+% <Brett Davis>
+% <201403xx>
+% 
+
+
+
 %%Problem 1
 clear all
 close all
